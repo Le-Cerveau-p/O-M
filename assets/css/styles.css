@@ -1,0 +1,93 @@
+section {
+    padding: 0;
+}
+
+hr {
+    height: 3px;
+    padding: 0;
+}
+
+.check-for {
+    border: 3px solid rgb(219, 31, 31);
+}
+
+.header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/children2.jpg");
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+}
+
+.about-header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../images/carousel/019\ pic.JPEG");
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 1px;
+}
+
+.custom-btn {
+    color: #fff;
+    border: 1px solid #FF8225;
+}
+
+.custom-btn:hover {
+    background-color: #FF8225;
+    color: #fff;
+}
+
+.custom-nav {
+    color: #fff;
+}
+
+.custom-nav:hover {
+    color: #FF8225;
+}
+
+.FF8225 {
+    color: #FF8225;
+}
+
+.FF8225:hover {
+    color: #FF8225;
+}
+
+.dark {
+    color: black;
+}
+
+.dark:hover {
+    color: #FF8225;
+}
+
+.features {
+    background-color: #F8EDED;
+    padding-bottom: 0;
+}
+
+.carousel {
+    background-color: #173B45;
+    margin-top: -40px;
+}
+
+.carousel-img {
+    height: 70vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50% */
+}
+
+.footer {
+    background-color: #F8EDED;
+    border: 1px solid rgba(255, 0, 0, 0);
+}
+
+.fill {
+    border: 1px solid rgba(255, 0, 0, 0);
+}
